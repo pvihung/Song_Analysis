@@ -12,7 +12,7 @@
 - Which traits make a loud song (danceability, energy, tempo, etc.) widely streamed vs a quiet song?
 - Which combinations of valence and tempo create the most streamed songs? Are songs with high valence and low tempo most popular, or is it another combination, like low valence and high tempo?
 ### 2. Machine Learning Model: 
-We will work on creating a **song recommender** using * *. It will be able to suggest some song recommendation for user based on the song they like.
+We will work on creating a ***song recommender*** using **K-Means Clustering** model. It will be able to suggest some song recommendation for user based on the song they like.
 
 ## Data Description:
 This dataset of songs of various artist in the world and for each song is present:
