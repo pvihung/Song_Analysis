@@ -1,7 +1,7 @@
 # Spotify_Analysis
-
 ***Group Members***: Hung Pham, Linh Pham, Arthur Roth
 ***Course***:  CS133  
+
 ---
 ## Project Objectives
 ### 1.  EDA:      
