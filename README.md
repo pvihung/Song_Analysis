@@ -10,11 +10,11 @@ This project explores the relationship between audio features of songs and their
 ---
 ## Project Objectives
 ### 1.  EDA:      
-- What are the top 10 songs on Spotify and YouTube? 
-- Do high-tempo songs garner more streams?
-- Do songs with longer or shorter titles have more streams on average?
-- Which traits make a loud song (danceability, energy, tempo, etc.) widely streamed vs a quiet song?
-- Which combinations of valence and tempo create the most streamed songs? Are songs with high valence and low tempo most popular, or is it another combination, like low valence and high tempo?
+- Identify the top 10 most-streamed songs on Spotify and YouTube.
+- Investigate whether high-tempo songs garner more streams.
+- Analyze if songs with longer or shorter titles are streamed more on average.
+- Explore which traits (e.g., danceability, energy, tempo) make a loud song more likely to be popular.
+- Understand the most effective combinations of valence and tempo for high stream counts.
 
   
 ### 2. Machine Learning Model: 
